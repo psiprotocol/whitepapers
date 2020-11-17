@@ -1,2 +1,2 @@
-# whitepapers
-Whitepapers that the Psi team has published.
+# Whitepapers
+This repository contains all of the whitepapers that the Psi Protocol team has published.
